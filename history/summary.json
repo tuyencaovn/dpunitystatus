@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1315,
-    "timeDay": 1315,
-    "timeWeek": 1355,
-    "timeMonth": 1315,
-    "timeYear": 1315,
+    "time": 1324,
+    "timeDay": 1412,
+    "timeWeek": 1381,
+    "timeMonth": 1324,
+    "timeYear": 1324,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bimnext.dpunity.com.ico",
     "slug": "bimnext-web",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1256,
-    "timeDay": 1168,
-    "timeWeek": 1257,
-    "timeMonth": 1256,
-    "timeYear": 1256,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1262,
+    "timeDay": 1347,
+    "timeWeek": 1271,
+    "timeMonth": 1262,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2022-11-28": 21
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1052,
-    "timeDay": 841,
-    "timeWeek": 1048,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "time": 1047,
+    "timeDay": 997,
+    "timeWeek": 1051,
+    "timeMonth": 1047,
+    "timeYear": 1047,
     "dailyMinutesDown": {}
   }
 ]
