@@ -8,6 +8,8 @@ sites:
     url: https://bimnext.dpunity.com
   - name: Bimnext-API
     url: https://bimnextapi.dpunity.com
+  - name: Bimnext-DB
+    url: https://bimnextapiv3-dev.dpunity.com/v3/users/email/tuyencaovn%40gmail.com
 
 status-website:
   cname: status.dpunity.com
