@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1353,
-    "timeDay": 1308,
-    "timeWeek": 1146,
-    "timeMonth": 1243,
-    "timeYear": 1341,
+    "timeDay": 1310,
+    "timeWeek": 1176,
+    "timeMonth": 1242,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2024-12-11": 64,
       "2024-08-16": 19,
@@ -26,8 +26,7 @@
       "2024-06-29": 67,
       "2024-06-21": 18,
       "2024-06-14": 20,
-      "2024-06-12": 144,
-      "2024-04-15": 148
+      "2024-06-12": 144
     }
   },
   {
@@ -41,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1414,
-    "timeDay": 1605,
-    "timeWeek": 1348,
-    "timeMonth": 1406,
-    "timeYear": 1466,
+    "time": 1415,
+    "timeDay": 1459,
+    "timeWeek": 1366,
+    "timeMonth": 1404,
+    "timeYear": 1467,
     "dailyMinutesDown": {
       "2025-02-26": 34,
       "2024-12-11": 64,
@@ -55,8 +54,7 @@
       "2024-06-29": 66,
       "2024-06-14": 20,
       "2024-06-12": 144,
-      "2024-05-02": 194,
-      "2024-04-15": 147
+      "2024-05-02": 194
     }
   },
   {
@@ -71,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 1061,
-    "timeDay": 1098,
-    "timeWeek": 932,
-    "timeMonth": 1003,
-    "timeYear": 1057,
+    "timeDay": 944,
+    "timeWeek": 951,
+    "timeMonth": 1001,
+    "timeYear": 1058,
     "dailyMinutesDown": {
       "2024-12-11": 63,
       "2024-08-05": 20,
@@ -85,8 +83,7 @@
       "2024-06-12": 341,
       "2024-06-11": 86,
       "2024-06-10": 262,
-      "2024-04-19": 24,
-      "2024-04-15": 146
+      "2024-04-19": 24
     }
   },
   {
@@ -95,15 +92,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bimnextapiv3-dev.dpunity.com.ico",
     "slug": "bimnext-db",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1064,
-    "timeDay": 1117,
-    "timeWeek": 909,
-    "timeMonth": 988,
+    "timeDay": 1016,
+    "timeWeek": 942,
+    "timeMonth": 985,
     "timeYear": 1063,
     "dailyMinutesDown": {
       "2024-12-11": 63,
@@ -113,8 +110,7 @@
       "2024-06-12": 341,
       "2024-06-11": 86,
       "2024-06-10": 262,
-      "2024-04-19": 24,
-      "2024-04-15": 145
+      "2024-04-19": 24
     }
   }
 ]
