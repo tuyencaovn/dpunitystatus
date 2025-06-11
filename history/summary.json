@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.89%",
-    "time": 1319,
-    "timeDay": 1348,
-    "timeWeek": 1262,
-    "timeMonth": 1277,
-    "timeYear": 1368,
+    "time": 1317,
+    "timeDay": 1339,
+    "timeWeek": 1303,
+    "timeMonth": 1274,
+    "timeYear": 1369,
     "dailyMinutesDown": {
       "2025-05-31": 131,
       "2024-12-11": 64,
@@ -37,17 +37,16 @@
     "slug": "bimnext-web",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.89%",
     "time": 1436,
-    "timeDay": 1427,
-    "timeWeek": 1423,
-    "timeMonth": 1409,
-    "timeYear": 1494,
+    "timeDay": 1375,
+    "timeWeek": 1456,
+    "timeMonth": 1408,
+    "timeYear": 1495,
     "dailyMinutesDown": {
-      "2025-06-10": 8,
       "2025-05-31": 130,
       "2025-05-14": 39,
       "2025-02-26": 34,
@@ -70,12 +69,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.84%",
     "time": 1051,
-    "timeDay": 1052,
-    "timeWeek": 1025,
-    "timeMonth": 1022,
-    "timeYear": 1063,
+    "timeDay": 1039,
+    "timeWeek": 1049,
+    "timeMonth": 1021,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2025-05-31": 223,
       "2024-12-11": 63,
@@ -84,8 +83,7 @@
       "2024-07-19": 18,
       "2024-07-03": 44,
       "2024-06-29": 65,
-      "2024-06-12": 341,
-      "2024-06-11": 86
+      "2024-06-12": 341
     }
   },
   {
@@ -98,12 +96,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.79%",
-    "time": 1065,
-    "timeDay": 1007,
-    "timeWeek": 983,
-    "timeMonth": 1015,
-    "timeYear": 1076,
+    "uptimeYear": "99.84%",
+    "time": 1066,
+    "timeDay": 1211,
+    "timeWeek": 1038,
+    "timeMonth": 1021,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2025-05-31": 222,
       "2025-05-09": 17,
@@ -111,8 +109,7 @@
       "2024-07-10": 21,
       "2024-07-03": 43,
       "2024-06-29": 63,
-      "2024-06-12": 341,
-      "2024-06-11": 86
+      "2024-06-12": 341
     }
   }
 ]
