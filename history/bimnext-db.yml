@@ -1,7 +1,7 @@
 url: https://bimnextapiv3-dev.dpunity.com/v3/users/email/tuyencaovn%40gmail.com
-status: down
-code: 502
-responseTime: 1148
-lastUpdated: 2025-11-11T06:39:57.207Z
+status: up
+code: 200
+responseTime: 963
+lastUpdated: 2025-11-11T06:52:59.815Z
 startTime: 2023-12-26T23:14:34.222Z
 generator: Upptime <https://github.com/upptime/upptime>
