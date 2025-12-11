@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dpunity.com.ico",
     "slug": "dp-unity-web",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
     "time": 1414,
-    "timeDay": 1081,
-    "timeWeek": 1179,
-    "timeMonth": 1242,
-    "timeYear": 1399,
+    "timeDay": 1418,
+    "timeWeek": 1228,
+    "timeMonth": 1252,
+    "timeYear": 1400,
     "dailyMinutesDown": {
       "2025-11-19": 17,
       "2025-10-15": 195,
@@ -24,8 +24,7 @@
       "2025-09-20": 38,
       "2025-09-19": 21,
       "2025-07-13": 46,
-      "2025-05-31": 131,
-      "2024-12-11": 64
+      "2025-05-31": 131
     }
   },
   {
@@ -36,13 +35,13 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.78%",
     "time": 1373,
-    "timeDay": 837,
-    "timeWeek": 1056,
-    "timeMonth": 1123,
+    "timeDay": 1128,
+    "timeWeek": 1068,
+    "timeMonth": 1127,
     "timeYear": 1359,
     "dailyMinutesDown": {
       "2025-12-05": 19,
@@ -59,8 +58,7 @@
       "2025-07-13": 46,
       "2025-05-31": 130,
       "2025-05-14": 39,
-      "2025-02-26": 34,
-      "2024-12-11": 64
+      "2025-02-26": 34
     }
   },
   {
@@ -75,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 1079,
-    "timeDay": 894,
-    "timeWeek": 938,
-    "timeMonth": 1011,
+    "timeDay": 1061,
+    "timeWeek": 968,
+    "timeMonth": 1016,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-10-15": 195,
@@ -85,8 +83,7 @@
       "2025-10-07": 16,
       "2025-09-22": 30,
       "2025-07-13": 45,
-      "2025-05-31": 223,
-      "2024-12-11": 63
+      "2025-05-31": 223
     }
   },
   {
@@ -100,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.79%",
-    "time": 1178,
-    "timeDay": 851,
-    "timeWeek": 948,
-    "timeMonth": 1004,
-    "timeYear": 1216,
+    "time": 1176,
+    "timeDay": 1124,
+    "timeWeek": 988,
+    "timeMonth": 1013,
+    "timeYear": 1217,
     "dailyMinutesDown": {
       "2025-11-19": 16,
       "2025-10-25": 18,
@@ -115,8 +112,7 @@
       "2025-08-23": 80,
       "2025-07-13": 45,
       "2025-05-31": 222,
-      "2025-05-09": 17,
-      "2024-12-11": 63
+      "2025-05-09": 17
     }
   }
 ]
