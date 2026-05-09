@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.79%",
     "time": 1382,
-    "timeDay": 1319,
-    "timeWeek": 1907,
-    "timeMonth": 1403,
+    "timeDay": 1167,
+    "timeWeek": 1881,
+    "timeMonth": 1407,
     "timeYear": 1415,
     "dailyMinutesDown": {
       "2026-05-04": 31,
@@ -42,15 +42,15 @@
     "slug": "bimnext-web",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "96.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.74%",
-    "time": 1249,
-    "timeDay": 845,
-    "timeWeek": 1026,
-    "timeMonth": 1009,
-    "timeYear": 1202,
+    "time": 1247,
+    "timeDay": 953,
+    "timeWeek": 997,
+    "timeMonth": 1010,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2026-05-07": 54,
       "2026-05-04": 30,
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.79%",
     "time": 1074,
-    "timeDay": 1047,
-    "timeWeek": 1600,
-    "timeMonth": 1150,
+    "timeDay": 1021,
+    "timeWeek": 1599,
+    "timeMonth": 1153,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2026-05-04": 30,
@@ -121,9 +121,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.71%",
     "time": 1156,
-    "timeDay": 1128,
-    "timeWeek": 1068,
-    "timeMonth": 1017,
+    "timeDay": 1005,
+    "timeWeek": 1059,
+    "timeMonth": 1020,
     "timeYear": 1205,
     "dailyMinutesDown": {
       "2026-05-04": 222,
@@ -141,8 +141,7 @@
       "2025-09-22": 29,
       "2025-08-23": 80,
       "2025-07-13": 45,
-      "2025-05-31": 222,
-      "2025-05-09": 17
+      "2025-05-31": 222
     }
   }
 ]
