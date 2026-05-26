@@ -40,16 +40,16 @@
     "url": "https://bimnext.dpunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/bimnext.dpunity.com.ico",
     "slug": "bimnext-web",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.73%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.72%",
     "time": 1234,
-    "timeDay": 913,
-    "timeWeek": 1067,
-    "timeMonth": 1036,
+    "timeDay": 987,
+    "timeWeek": 1073,
+    "timeMonth": 1039,
     "timeYear": 1184,
     "dailyMinutesDown": {
       "2025-05-31": 130,
@@ -75,7 +75,7 @@
       "2026-05-04": 30,
       "2026-05-07": 54,
       "2026-05-19": 62,
-      "2026-05-26": 0
+      "2026-05-26": 65
     }
   },
   {
