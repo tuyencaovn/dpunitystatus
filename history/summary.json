@@ -4,16 +4,16 @@
     "url": "https://dpunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/dpunity.com.ico",
     "slug": "dp-unity-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "91.68%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "87.28%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "99.83%",
     "time": 1363,
-    "timeDay": 1358,
-    "timeWeek": 1181,
-    "timeMonth": 1200,
+    "timeDay": 1288,
+    "timeWeek": 1158,
+    "timeMonth": 1201,
     "timeYear": 1304,
     "dailyMinutesDown": {
       "2025-11-19": 17,
@@ -27,7 +27,8 @@
       "2026-05-04": 31,
       "2026-08-11": 47,
       "2026-09-29": 382,
-      "2026-10-24": 120
+      "2026-10-25": 55,
+      "2026-10-24": 128
     }
   },
   {
@@ -42,8 +43,8 @@
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.75%",
     "time": 1115,
-    "timeDay": 1098,
-    "timeWeek": 978,
+    "timeDay": 1061,
+    "timeWeek": 960,
     "timeMonth": 982,
     "timeYear": 1051,
     "dailyMinutesDown": {
@@ -84,9 +85,9 @@
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.86%",
     "time": 1062,
-    "timeDay": 1048,
-    "timeWeek": 943,
-    "timeMonth": 972,
+    "timeDay": 1040,
+    "timeWeek": 935,
+    "timeMonth": 973,
     "timeYear": 1031,
     "dailyMinutesDown": {
       "2026-01-05": 27,
@@ -105,19 +106,18 @@
     "url": "https://bimnextapiv3-dev.dpunity.com/v3/users/email/tuyencaovn%40gmail.com",
     "icon": "https://icons.duckduckgo.com/ip3/bimnextapiv3-dev.dpunity.com.ico",
     "slug": "bimnext-db",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "88.29%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.76%",
     "time": 1140,
-    "timeDay": 1016,
-    "timeWeek": 952,
+    "timeDay": 1005,
+    "timeWeek": 936,
     "timeMonth": 1013,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2025-10-25": 18,
       "2025-11-19": 16,
       "2026-01-14": 64,
       "2026-02-02": 27,
@@ -130,7 +130,8 @@
       "2026-08-11": 45,
       "2026-08-18": 39,
       "2026-09-29": 377,
-      "2026-10-24": 105
+      "2026-10-25": 55,
+      "2026-10-24": 113
     }
   }
 ]
